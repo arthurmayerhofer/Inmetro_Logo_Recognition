@@ -1,2 +1,2 @@
-# Logo-Detection-R-CNN
-Detecção de logo do Inmetro em relógios de energia
+# Detecção de Logos
+Detecção de logo do Inmetro por Rede Neural RCNN
