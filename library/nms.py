@@ -48,7 +48,7 @@ def non_max_suppression(boxes, overlapThresh):
 			overlap = float(w * h) / area[j]
 			# if there is sufficient overlap, suppress the
 			# current bounding box
-			if overlap > overlapThresh:
+			if (overlap > overlapThresh).any():
 				suppress.append(pos)
 		# delete all indexes from the index list that are in the
 		# suppression list
