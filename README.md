@@ -1,7 +1,7 @@
 # Projeto de Reconhecimento de Logos do Inmetro em Relógios Medidores de Energia
 Detecção de logos do Inmetro em imagens de quadros de luz, utilizando biblioteca OpenCV e Rede Neural RCNN
 
-Introdução
+## Introdução
 Este projeto tem como objetivo desenvolver um sistema avançado de reconhecimento de logos do Inmetro em relógios medidores de energia, utilizando Redes Neurais Convolucionais (RCNN) com as bibliotecas Keras e Tensorflow. O Inmetro desempenha um papel fundamental na certificação de produtos no Brasil, incluindo instrumentos de medição, e a identificação precisa dos logos em dispositivos como relógios medidores de energia é essencial para garantir autenticidade e conformidade.
 
 Metodologia
